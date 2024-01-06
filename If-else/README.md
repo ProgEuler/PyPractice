@@ -15,7 +15,7 @@ A single line containing a positive integer, `n`.
 
 ## Output:
 
-		| input | output |
-		| ---------| ---------|
-		| 3 | Weird|
-		| 24 | Not Weird|
+| input | output |
+| ---------| ---------|
+| 3 | Weird|
+| 24 | Not Weird|
