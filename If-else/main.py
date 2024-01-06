@@ -1,4 +1,11 @@
-n = int(input("enter your number: "))
+import math
+import os
+import random
+import re
+import sys
+
+
+n = int(input(""))
 
 if 1 <= n <= 100:
     if n % 2 != 0:
