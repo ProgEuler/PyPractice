@@ -22,7 +22,9 @@ This is a basic Python program that calculates the total amount, including tip, 
 	Enter your food amount $: 30.50
 	Enter tip percentage: 15
 	Total: $34.98
-	
+ <img src="https://github.com/ProgEuler/PyPractice/assets/137267311/5a057feb-4d6f-4021-8222-2e86afbf433a" alt="Screenshot" width="500px">
+
+
 
 ## Error Handling
 
