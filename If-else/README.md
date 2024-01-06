@@ -11,7 +11,7 @@ Given an integer, `n`, perform the following conditional actions:
 
 A single line containing a positive integer, `n`.
 
-## constraints: `1 <= n <= 100`
+## constraints: ```1 <= n <= 100```
 
 ## Output:
 
