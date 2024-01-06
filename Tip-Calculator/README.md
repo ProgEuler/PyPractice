@@ -25,7 +25,7 @@ This is a basic Python program that calculates the total amount, including tip, 
 
 ## Error Handling
 
-The program includes error handling to ensure that the user enters valid ==numeric input.== If non-numeric input is detected, it will prompt the user to ==enter valid input.==
+The program includes error handling to ensure that the user enters valid ==numeric input.== If non-numeric input is detected, it will prompt the user to ==enter valid input==.
 
 	Enter your food amount $: abc
 	Please enter valid numeric input.
