@@ -1,6 +1,6 @@
 # Tast
 
-  123...n 
+123...n <br>
   Note that "..." represents the consecutive values in between.
 
 ## Example
