@@ -5,4 +5,15 @@
 
 ## Example
 
-  Print the string 12345
+` n = 5 `
+  Print the string ` 12345 `
+
+## input
+
+The first line contains an integer ` n `.
+
+
+	input 				output
+
+	3					123
+	5					12345
