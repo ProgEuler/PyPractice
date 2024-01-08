@@ -1,6 +1,6 @@
 # Tast
 
-  123...n
+  123...n 
   Note that "..." represents the consecutive values in between.
 
 ## Example
@@ -15,5 +15,5 @@ The first line contains an integer ` n `.
 
 	input 				output
 
-	3					123
-	5					12345
+	3				123
+	5				12345
